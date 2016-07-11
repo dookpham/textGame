@@ -1,0 +1,23 @@
+{
+  "name": "textgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dookpham/textGame.git"
+  },
+  "author": "Duke Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dookpham/textGame/issues"
+  },
+  "homepage": "https://github.com/dookpham/textGame#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
